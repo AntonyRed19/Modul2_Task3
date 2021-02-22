@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salad", "Salad\Salad.csproj", "{803C4E11-A201-4EE2-A2E4-F624C3B06E36}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B643B9AE-1BC5-4E9A-AE00-AF77EB151667}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\Desktop\StyleCop-master\StyleCop\.gitignore = ..\..\..\..\..\Desktop\StyleCop-master\StyleCop\.gitignore
+		..\..\..\..\..\Desktop\StyleCop-master\StyleCop\settings.ruleset = ..\..\..\..\..\Desktop\StyleCop-master\StyleCop\settings.ruleset
+		..\..\..\..\..\Desktop\StyleCop-master\StyleCop\stylecop.json = ..\..\..\..\..\Desktop\StyleCop-master\StyleCop\stylecop.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{803C4E11-A201-4EE2-A2E4-F624C3B06E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803C4E11-A201-4EE2-A2E4-F624C3B06E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803C4E11-A201-4EE2-A2E4-F624C3B06E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803C4E11-A201-4EE2-A2E4-F624C3B06E36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A1FD265-DFA9-4CFA-9CFA-2605280984A6}
+	EndGlobalSection
+EndGlobal
