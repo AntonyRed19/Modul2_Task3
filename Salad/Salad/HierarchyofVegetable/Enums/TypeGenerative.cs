@@ -6,8 +6,13 @@ using System.Threading.Tasks;
 
 namespace Salad
 {
-        public interface IComparer
-        {
-            int Compare(object o1, object o2);
-        }
+   public enum TypeGenerative
+    {
+        Fetus,
+        Seed,
+        Sheet,
+        Stem,
+        Root,
+        Tuber
+    }
 }

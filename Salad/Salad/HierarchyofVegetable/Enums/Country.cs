@@ -4,10 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Salad
+namespace Salad.HierarchyofVegetable.Enums
 {
-    public class LifeCycleVegetable : Vegetable
+   public enum Country
     {
-        public TypeCycle TypeCycle { get; set; }
+        Ukraine,
+        Russia,
+        Latvia,
+        Belarus
     }
 }
