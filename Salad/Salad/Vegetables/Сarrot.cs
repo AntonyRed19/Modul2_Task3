@@ -10,7 +10,7 @@ namespace Salad.Vegetables
 {
     public class Сarrot : GroupofVegetable
     {
-        public Carrot(double weight, double price, string company, Country createdcountry)
+        public Сarrot(double weight, double price, string company, Country createdcountry)
             : base(weight, price, company, createdcountry)
         {
         }
