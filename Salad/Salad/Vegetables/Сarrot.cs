@@ -20,7 +20,7 @@ namespace Salad.Vegetables
 
         public override TypeGenerative TypeofGenerative => TypeGenerative.Root;
 
-        public override string Name => "Potato";
+        public override string Name => "Carrot";
         public override double Calories => 315.13;
         public override string Color => "Yellow";
         public override DateTime TimeCreate => DateTime.UtcNow;
